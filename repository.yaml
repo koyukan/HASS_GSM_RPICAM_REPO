@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: GSM RPICAM Home Assistant add-on repository
+name: GSM RPICAM
 url: 'https://github.com/koyukan/HASS_GSM_RPICAM_REPO'
 maintainer: Kaan Koyukan <kaan@koyukan.com>
